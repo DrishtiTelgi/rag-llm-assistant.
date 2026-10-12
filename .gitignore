@@ -1,0 +1,7 @@
+.venv/
+.env
+
+# vector database
+faiss_db/
+vectore store/
+
