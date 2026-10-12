@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-huggingface
+transformers>=4.43.1
+torch
+accelerate
+huggingface-hub
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv
